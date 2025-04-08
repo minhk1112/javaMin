@@ -11,7 +11,7 @@ public class Cal {
         double doubleAVG= 0.0;
         boolean boolRslt = false;
 
-        System.out.print("수학 점수를 입력하시오: ");
+        System.out.print("국어 점수를 입력하시오: ");
         kor = sc.nextInt();
         System.out.print("영어 점수를 입력하시오: ");
         eng = sc.nextInt();
