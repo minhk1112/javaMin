@@ -25,7 +25,7 @@ public class Main {
             }
 
             if (r < 1 || r > rows || c < 1 || c > cols) {
-                System.out.println("⚠️ 잘못된 좌석 번호입니다. 다시 입력하세요.");
+                System.out.println("잘못된 좌석 번호입니다. 다시 입력하세요.");
                 continue;
             }
 
